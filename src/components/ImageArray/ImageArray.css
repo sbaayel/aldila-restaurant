@@ -1,0 +1,24 @@
+.image-array-container {
+  margin-bottom: 44px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.image-array-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width: 550px) {
+  .image-array-container {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+
+  .image-container {
+    width: 42%;
+    margin: 10px;
+  }
+}

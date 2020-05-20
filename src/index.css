@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Brandon';
+}
+
+@font-face {
+  font-family: 'Brandon';
+  src: local('Brandon'), url(./fonts/Brandon_med.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Bold';
+  src: local('Brandon'), url(./fonts/Brandon_bld.otf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Brandon Reg';
+  src: local('Brandon'), url(./fonts/Brandon_reg.otf) format('truetype');
+}

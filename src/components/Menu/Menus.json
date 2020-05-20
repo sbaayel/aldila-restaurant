@@ -1,0 +1,384 @@
+{
+  "Brunch": {
+    "items": [
+      {
+        "type": "Eggs and Breakfast",
+        "dish": "Frittata of the day",
+        "cost": 15,
+        "caption": "Served with mixed greens"
+      },
+      {
+        "type": "Eggs and Breakfast",
+        "dish": "French Toast",
+        "cost": 15,
+        "caption": "Roasted bananas, whipped ricotta, local maple syrup"
+      },
+      {
+        "type": "Eggs and Breakfast",
+        "dish": "Uova Affogate",
+        "cost": 15.50,
+        "caption": "Two eggs baked in spicy tomato sauce, served with grilled bread, Fontina and Parmigiano"
+      },
+      {
+        "type": "Eggs and Breakfast",
+        "dish": "Pork Belly Hash",
+        "cost": 17,
+        "caption": "Brussel sprouts, pickled red onions, two poached eggs"
+      },
+      {
+        "type": "Eggs and Breakfast",
+        "dish": "Funghi e Polenta",
+        "cost": 16.50,
+        "caption": "Add poached egg $1.50 Sauteed wild mushrooms over braised greens and creamy polenta, parmigiano"
+      },
+      {
+        "type": "Eggs and Breakfast",
+        "dish": "Crispy Polenta Cake",
+        "cost": 17.50,
+        "caption": "Two poached eggs, wilted spinach, tomato sauce, three strips bacon"
+      },
+      {
+        "type": "Eggs and Breakfast",
+        "dish": "American Breakfast",
+        "cost": 15,
+        "caption": "Two eggs (any style), crispy potatoes, bacon or sausage"
+      },
+      {
+        "type": "Eggs and Breakfast",
+        "dish": "Fritters",
+        "cost": 10,
+        "caption": "Ricotta doughnuts, made to order, raspberry jam, vanilla whip"
+      },
+      {
+        "type": "Salads",
+        "dish": "Insalata di Farro",
+        "cost": 16,
+        "caption": "Warm spelt salad, roasted squash and cauliflower, red onion, greens, hazelnuts, goat cheese, brown butter sherry vinaigrette"
+      },
+      {
+        "type": "Salads",
+        "dish": "Winter White Salad",
+        "cost": 15.50,
+        "caption": "A selection of raw shaved white winter vegetables, champagne vinaigrette, crumbled Castelmagno cheese"
+      },
+      {
+        "type": "Salads",
+        "dish": "Cavolo Nero Salad",
+        "cost": 14.50,
+        "caption": "Tuscan kale, croutons, Parmigiano, anchovy vinaigrette"
+      },
+      {
+        "type": "Salads",
+        "dish": "Heritage Pork Belly Sandwich",
+        "cost": 16,
+        "caption": "Served warm, pickled vegetables, tomato, salsa verde, greens"
+      },
+      {
+        "type": "Salads",
+        "dish": "Grilled Fish Sandwich",
+        "cost": 16,
+        "caption": "Lemon aioli, arugula, cucumber, pickled seasonal vegetables, greens"
+      },
+      {
+        "type": "Pasta",
+        "dish": "Soup of the day",
+        "cost": 9.50,
+        "caption": ""
+      },
+      {
+        "type": "Pasta",
+        "dish": "Spaghetti Chitarra alla Carbonara",
+        "cost": 16,
+        "caption": "Guanciale, black pepper, pecorino"
+      },
+      {
+        "type": "Pasta",
+        "dish": "Ricotta and Lemon Ravioli",
+        "cost": 17,
+        "caption": "Tomato, Parmigiano"
+      },
+      {
+        "type": "Pasta",
+        "dish": "Tagliatelle al Ragu",
+        "cost": 17.50,
+        "caption": ""
+      },
+      {
+        "type": "Sides",
+        "dish": "",
+        "cost": 8,
+        "caption": "Thick Cut Bacon, Creamy Polenta, Crispy Yukon Gold Potatoes, Sauteed Greens, Two eggs, any style, Grilled Sausage"
+      }
+    ]
+  },
+  "Lunch": {
+    "items": [
+      {
+        "type": "Antipasti",
+        "dish": "Insalata di Farro",
+        "cost": 16,
+        "caption": "Warm spelt salad, roasted squash and cauliflower, red onion, greens, hazelnuts, goat cheese, brown butter sherry vinaigrette"
+      },
+      {
+        "type": "Antipasti",
+        "dish": "Dried Fava Puree and Dandelion",
+        "cost": 15,
+        "caption": ""
+      },
+      {
+        "type": "Antipasti",
+        "dish": "Winter White Salad",
+        "cost": 15.50,
+        "caption": "A selection of raw shaved white vegetables, champagne vinaigrette, crumbled Castelmagno cheese"
+      },
+      {
+        "type": "Antipasti",
+        "dish": "Orange Salad",
+        "cost": 14,
+        "caption": "Navel, Cara Cara, blood oranges, red onion, fennel, mint, pomegranate seeds"
+      },
+      {
+        "type": "Antipasti",
+        "dish": "Cavolo Nero Salad",
+        "cost": 15.50,
+        "caption": "Tuscan kale, croutons, parmigiano, anchovy vinaigrette"
+      },
+      {
+        "type": "Panini",
+        "dish": "Crispy Pork Belly",
+        "cost": 16,
+        "caption": "Crispy Heritage pork belly, seasonal pickles, horseradish mayo, salsa verde"
+      },
+      {
+        "type": "Panini",
+        "dish": "Grilled Fish Sandwich",
+        "cost": 16,
+        "caption": "Lemon aioli, cucumbers, chili oil, arugula, seasonal pickles"
+      },
+      {
+        "type": "Pasta",
+        "dish": "Spaghetti Chitarra alla Carbonara",
+        "cost": 16,
+        "caption": "Guanciale, black pepper, pecorino"
+      },
+      {
+        "type": "Pasta",
+        "dish": "Tagliatelle al Ragu'",
+        "cost": 17.50,
+        "caption": ""
+      },
+      {
+        "type": "Pasta",
+        "dish": "Ricotta Cavatelli",
+        "cost": 16.50,
+        "caption": "Roasted Cauliflower, anchovy, chili, tomato, pecorino"
+      },
+      {
+        "type": "Pasta",
+        "dish": "Malfatti",
+        "cost": 17,
+        "caption": "Swiss chard and ricotta gnocchi with brown butter and sage"
+      },
+      {
+        "type": "Pasta",
+        "dish": "Ricotta and Lemon Ravioli",
+        "cost": 17,
+        "caption": "Tomato, Parmigiano"
+      },
+      {
+        "type": "Piatti Caldi",
+        "dish": "Soup of the day",
+        "cost": 9.50,
+        "caption": ""
+      },
+      {
+        "type": "Piatti Caldi",
+        "dish": "Funghi e Polenta",
+        "cost": 16.50,
+        "caption": "Sauteed wild mushrooms over braised greens and creamy polenta, parmigiano"
+      },
+      {
+        "type": "Piatti Caldi",
+        "dish": "Trippa alla Toscana",
+        "cost": 15.50,
+        "caption": "Add poached egg $1.50"
+      },
+      {
+        "type": "Piatti Caldi",
+        "dish": "Fish of the Day",
+        "cost": 17.50,
+        "caption": ""
+      },
+      {
+        "type": "Piatti Caldi",
+        "dish": "Grilled Lancaster County Chicken",
+        "cost": 18,
+        "caption": "Summer panzanella"
+      }
+    ]
+  },
+  "Dinner": {
+    "items": [
+      {
+        "type": "Antipasti",
+        "dish": "Cavolo Nero Salad",
+        "cost": 15,
+        "caption": "Tuscan kale, croutons, parmigiano, anchovy vinaigrette"
+      },
+      {
+        "type": "Antipasti",
+        "dish": "Farro Salad",
+        "cost": 16.50,
+        "caption": "Spelt salad, snap peas, radishes, fennel fronds, ricotta salata, champagne vinaigrette"
+      },
+      {
+        "type": "Antipasti",
+        "dish": "Spring Salad",
+        "cost": 16.50,
+        "caption": "English peas, favas, snap peas, asparagus, baby spinach, haricot vert, mint, shaved pecorino cheese, champagne vinaigrette"
+      },
+      {
+        "type": "Antipasti",
+        "dish": "Grilled Asparagus",
+        "cost": 17,
+        "caption": "Pancetta, hard boiled egg, shaved parmigiano, lemon garlic vinaigrette"
+      },
+      {
+        "type": "Antipasti",
+        "dish": "Trippa Alla Toscana",
+        "cost": 16,
+        "caption": "Tripe stewed in white wine, sofritto and few tomatoes"
+      },
+      {
+        "type": "Primi",
+        "dish": "Ricotta Ravioli",
+        "cost": 17,
+        "caption": "Tomato, lemon, basil, parmigiano"
+      },
+      {
+        "type": "Primi",
+        "dish": "Malfatti",
+        "cost": 18,
+        "caption": "Swiss chard and ricotta gnocchi with brown butter and sage"
+      },
+      {
+        "type": "Primi",
+        "dish": "Kid Pasta",
+        "cost": 12,
+        "caption": "Tagliatelle with butter and cheese"
+      },
+      {
+        "type": "Primi",
+        "dish": "Casunziel",
+        "cost": 17,
+        "caption": "Red beets and ricotta ravioli, melted butter and poppy seeds"
+      },
+      {
+        "type": "Primi",
+        "dish": "Tortelli Di Ricotta",
+        "cost": 19,
+        "caption": "Homemade ravioli filled with ricotta cheese, served with English peas, mint, and pecorino"
+      },
+      {
+        "type": "Primi",
+        "dish": "Tagliatelle Al Ragu'",
+        "cost": 19.50,
+        "caption": ""
+      },
+      {
+        "type": "Primi",
+        "dish": "Spaghetti Neri Alla Chitarra",
+        "cost": 21,
+        "caption": "Homemade black spaghetti, octopus confit, basil, chili peppers"
+      },
+      {
+        "type": "Primi",
+        "dish": "Spaghetti Vongole",
+        "cost": 19.50,
+        "caption": "Manila Clams, hot chili peppers, garlic, oregano"
+      },
+      {
+        "type": "Secondi",
+        "dish": "Braised Rabbit",
+        "cost": 31,
+        "caption": "Creamy Polenta, black olives"
+      },
+      {
+        "type": "Secondi",
+        "dish": "Saltimbocca Alla Romana",
+        "cost": 29,
+        "caption": "Boneless pork loin scallopine with sage leaves and prosciutto, served with sautéed potatoes"
+      },
+      {
+        "type": "Secondi",
+        "dish": "Merluzzo Al Forno",
+        "cost": 29,
+        "caption": "Hake filet baked with Salmoriglio, fingerling potatoes, little tomatoes, black olives, basil, toasted breadcrumbs"
+      },
+      {
+        "type": "Secondi",
+        "dish": "Galletto Alla Diavola",
+        "cost": 30,
+        "caption": "(30 minutes) Charcoal-grilled young chicken, fennel salad, mashed yukons"
+      },
+      {
+        "type": "Secondi",
+        "dish": "Hanger Steak 'Tagliata'",
+        "cost": 29.50,
+        "caption": "Sliced hanger steak, balsamic reduction"
+      },
+      {
+        "type": "Contorni",
+        "dish": "",
+        "cost": 10,
+        "caption": "Crushed Yukon Gold Potatoes; Grilled Spring Onions, lemon, mint; Grilled Swiss Chard Stems, anchovy vinaigrette; Creamy Polenta, parmigiano"
+      },
+      {
+        "type": "Contorni",
+        "dish": "Contorni cont.",
+        "cost": 8,
+        "caption": "Braised Greens, garlic, chili, lemon; Baby Carrots, yogurt, honey"
+      }
+    ]
+  },
+  "Dessert": {
+    "items": [
+      {
+        "type": "Dessert",
+        "dish": "Frittole",
+        "cost": 12,
+        "caption": "Ricotta Fritters served with warm chocolate sauce and vanilla whipped cream"
+      },
+      {
+        "type": "Dessert",
+        "dish": "Torta di Pere e Cioccolato",
+        "cost": 10,
+        "caption": "Pear Cake with bitter chocolate chunks.  Served warm with whipped cream"
+      },
+      {
+        "type": "Dessert",
+        "dish": "Gianduiotto",
+        "cost": 10,
+        "caption": "Chocolate ice cream with Hazelnuts served in a tall glass with whipped cream"
+      },
+      {
+        "type": "Dessert",
+        "dish": "Affogato al Caffè",
+        "cost": 10,
+        "caption": "Vanilla ice cream and crushed Almond praline drowned in decaffeinated hot Espresso"
+      },
+      {
+        "type": "Dessert",
+        "dish": "Sorbetti di Frutta & Gelati",
+        "cost": 12,
+        "caption": "All ice creams and sorbets are homemade"
+      },
+      {
+        "type": "Dessert",
+        "dish": "Piatto dei Formaggi",
+        "cost": 12,
+        "caption": "An assortment of artisanal cheese"
+      }
+    ]
+  }
+}

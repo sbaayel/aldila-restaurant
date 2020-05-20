@@ -1,0 +1,63 @@
+visit {
+  display: flex;
+  justify-content: center;
+  max-height: 500px;
+  width: 100%;
+}
+
+.visit-image,
+.visit-box {
+  width: 50%;
+}
+
+.visit-box {
+  font-size: calc(13px + (24 - 13) * ((100vw - 300px) / (1440 - 300)));
+  background-color: #fec91d;
+}
+
+.visit-box p {
+  margin: 20px 12%;
+}
+
+.visit-image img {
+  object-fit: cover;
+}
+
+@media only screen and (max-width: 770px) {
+  
+  .visit-box {
+    font-size: .9em;
+    font-weight: 500;
+  }
+
+  .visit-box p {
+    margin: 10px 7px;
+  }
+
+}
+
+@media only screen and (max-width: 550px) {
+  .visit-container {
+    max-height: none;
+    flex-wrap: wrap;
+  }
+
+  .visit-image {
+    width: 100%;
+  }
+
+  .visit-box {
+    width: 100%;
+    height: auto;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 10px 20px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+
+  .visit-box {
+   font-size: 14px;
+  }
+}

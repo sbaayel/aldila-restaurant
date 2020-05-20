@@ -1,0 +1,40 @@
+footer {
+  background-color: #fec91d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+}
+
+.fb-link {
+  margin-right: 22px;
+}
+
+@media only screen and (max-width: 700px) {
+
+  .fb-link {
+    height: 40px;
+    width: auto;
+  }
+
+  .ig-link {
+    height: 35px;
+    width: auto;
+  }
+
+}
+
+@media only screen and (max-width : 375px) {
+  footer {
+    padding: 10px 10px;
+  }
+
+  .fb-link {
+    height: 25px;
+    margin-right: 10px;
+  }
+
+  .ig-link {
+    height: 20px;
+  }
+}
